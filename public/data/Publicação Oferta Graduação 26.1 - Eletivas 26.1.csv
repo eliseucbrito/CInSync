@@ -1,0 +1,43 @@
+Órgão ofertante,Período,Turma,Disciplina,Docente (s),Horário (Sala/Lab)
+CC,,,CIN0168 - Fundamentos de Teste de Software,Paola Rodrigues de Godoy Accioly ,seg. 10:00-11:50 (E122) /  qua. 08:00-09:50 (E122)
+CC,,,IF696- INTEG. DADOS WEB E WAREHOUSE,Robson Fidalgo ,seg. 13:00-14:50 (Grad04) / qua. 13:00-14:50 (Grad04) /  seg. 12:00-12:50 (Grad04)
+CC,,,IF781- EMPREENDIMENTOS EM INFORMATICA,Fabio Silva ,ter. 13:00-14:50 (E232) / qui. 15:00-16:50 (E232) /  qui. 12:00-12:50 (E232)
+CC,,,IF742- AVALIACAO DESEMPENHO DE SISTEMAS,Paulo Romero Martins Maciel ,ter. 08:00-09:50 (Grad04) / qui. 10:00-11:50 (Grad04) /  qui. 12:00-12:50 (Grad04)
+CC,,,IF788- INICIACAO CIENTIFICA 1,Teresa Ludermir , ter. 17:00-18:50 ter. 18:50-20:30 ter. 20:30-21:20
+CC,,,IF789- INICIACAO CIENTIFICA 2,Teresa Ludermir , qua. 17:00-18:50 qua. 18:50-20:30 qua. 20:30-21:20
+CC,,,IF791- PROJETO DE MONITORIA 2,Valéria Cesário Times , qui. 6:00-6:50 sex. 6:00-6:50 sex. 20:30-21:20
+CC,,,IF790- PROJETO DE MONITORIA 1,Valéria Cesário Times , seg. 6:00-6:50 ter. 6:00-6:50 qua. 6:00-6:50
+CC,,,IF699- APRENDIZAGEM DE MAQUINA,Francisco de Assis Tenorio de Carvalho  / Leandro Maciel Almeida ,seg. 13:00-14:50 (E122) / qua. 15:00-16:50 (E122) /  seg. 12:00-12:50 (E122)
+CC,,,IF716- ESPECIF.REQUIS.VALIDACAO SISTEMAS,Jaelson Castro ,seg. 13:00-14:50 (E233) / qua. 15:00-16:50 (E233) /  qua. 17:00-17:50 (E233)
+CC,,,IF867- INTRODUÇÃO À APRENDIZAGEM PROFUNDA,Rodrigo Gabriel Ferreira Soares ,ter. 13:00-14:50 (E112) /  qui. 15:00-16:50 (E112)
+CC,,,CIN0203 - PROGRAMAÇÃO COMPETITIVA,Gustavo Carvalho ,ter. 08:00-09:50 (Grad03) /  qui. 10:00-11:50 (Grad03)
+CC,,,CIN0114 - Técnicas de Ataque e Detecção de Intrusão,Paulo Freitas Araújo Filho ,ter. 10:00-11:50 (Grad03) /  qui. 08:00-09:50 (Grad03)
+CC,,,IF865- INTERFACES GRÁFICAS,Judith Kelner ,ter. 08:00-09:50 (E132) / qui. 10:00-11:50 (E132) /  qui. 12:00-12:50 (E132)
+CC,,,IF722- TOPICOS AVANCADOS ENG. SOFTWARE,Augusto Sampaio ,ter. 10:00-11:50 (E112) / qui. 08:00-09:50 (E112) /  ter. 7:00-7:50
+CC,,,IF738- REDES DE COMPUTADORES,Djamel Sadok ,seg. 08:00-09:50 (E112) / qua. 10:00-11:50 (E112) /  seg. 6:00-6:50
+CC,,,IF763- ALGEBRA LINEAR AVANC. COMPUTACAO,Silvio Melo ,ter. 15:00-16:50 (E331) / sex. 15:00-16:50 (E331) /  ter. 7:00-7:50
+CC,,,IF702- REDES NEURAIS,Germano Vasconcelos ,ter. 10:00-11:50 (Sala 15 - Área 2) / sex. 08:00-09:50 (Sala 11 - Área 2) /  ter. 12:00-12:50
+CC,,,IF799- PROG.DECLARATIVA B.D.INTELIGENTES,Fred Freitas ,seg. 13:00-14:50 (E231) / qua. 15:00-16:50 (E231) /  seg. 12:00-12:50
+CC,,,CIN0154 - REDES DE COMPUTADORES,Kelvin Lopes Dias ,ter. 08:00-09:50 (E121) /  qui. 10:00-11:50 (E121)
+EC,,>>,IF722- TOPICOS AVANCADOS ENG. SOFTWARE,Davi Hirafuji Neiva , seg. 10:00-11:50 qua. 08:00-09:50 qua. 6:00-6:50
+EC,,,ES265- PROCESSAMENTO DIGITAL DE SINAIS,Carlos Alexandre Barros de Mello ,seg. 08:00-09:50 (E113) /  qua. 10:00-11:50 (E113)
+EC,,,IF709- IMPLEMENTACAO SIST. OPERACIONAIS,Eduardo Tavares ,ter. 10:00-11:50 (E131) / qui. 08:00-09:50 (E131) /  sáb. 7:00-7:50
+EC,,,IF747- TOP. AVANC. REDES DE COMPUTADORES,Divanilson Rodrigo de Sousa Campelo ,qua. 08:00-09:50 (E232) / sex. 10:00-11:50 (E232) /  sáb. 12:00-12:50
+EC,,,CIN0039 - COMPUTAÇÃO QUÂNTICA,Fernando Maciano de Paula Neto ,ter. 08:00-09:50 (E231) /  qui. 10:00-11:50 (E231)
+EC,,,ES349- PROPAGACAO ELETROMAGNETICA,Odilon Maroja da Costa Pereira Filho ,ter. 08:00-09:50 (E112) / qui. 10:00-11:50 (E112) /  sáb. 6:00-6:50
+EC,,,CT784- CONTABILIDADE FINANC. E GERENCIAL,Daniel Cunha ,qua. 08:00-09:50 (E132) / sex. 10:00-11:50 (E132) /  qua. 7:00-7:50
+EC,,,IF826- TOP.AVANC. SIST. INTELIG.ROBOTICA,Adrien ,ter. 10:00-11:50 (Lab Hardw) / qui. 08:00-09:50 (Lab Hardw) /  sex. 6:00-6:50
+SI,,,EP100- GESTÃO DA PRODUÇÃO,Gisele Cristina Sena da Silva ,qui. 17:00-18:50 (E231) /  qui. 18:50-20:30 (E231)
+SI,,,CIN0166 – Planejamento e Gestã o da Qualidade de Software,Alexandre Marcos Lins de Vasconcelos ,seg. 18:50-20:30 (E121) /  qua. 17:00-18:50 (E121)
+SI,,,IF1008- ENGENHARIA DE REQUISITOS,Jéssyka Vilela ,ter. 18:50-20:30 (Grad01) /  qui. 17:00-18:50 (E113)
+SI,,,IF993- PROCESSOS DE SOFTWARE,Célio Andrade de Santana Júnior ,sex. 17:00-18:50 (E231) /  sex. 18:50-20:30 (E231)
+SI,,,IF1015- TÓPICOS AVANÇADOS EM SI 6,Vinicius Cardoso Garcia ,seg. 17:00-18:50 (Grad01) /  ter. 18:50-20:30 (E232)
+SI,,,IF1005- SEMINÁRIO EM SI 4,Carla Silva Schuenemann ,qua. 18:50-20:30 (E121) /  qui. 17:00-18:50 (E121)
+SI,,,IF1007- TÓPICOS AVANÇADOS EM SI 4,Maíra Araújo de Santana ,seg. 17:00-18:50 (E231) /  qua. 18:50-20:30 (E231)
+SI,,,CIN0198 – INOVAÇÃO EM SI,Sérgio Vanderlei Cavalcante ,seg. 18:50-20:30 (E231) /  qua. 17:00-18:50 (E231)
+SI,,,EP101- LOGÍSTICA,João Mateus Marques de Santana ,ter. 17:00-18:50 (E231) /  ter. 18:50-20:30 (E231)
+SI,,,IF1014- TÓPICOS AVANÇADOS EM SI 5,Leandro Maciel Almeida ,qua. 17:00-18:50 (Grad03) /  qua. 18:50-20:30 (Grad03)
+SI,,,IF1017- INTELIGÊNCIA ARTIFICIAL,Flávio Arthur Oliveira Santos ,sex. 17:00-18:50 (Grad01) /  sex. 18:50-20:30 (Grad01)
+SI,,,CIN0163 - Arquitetura de Sistemas,Kiev Gama ,qua. 17:00-18:50 (Sala 1 - Área 2) /  qua. 18:50-20:30 (Sala 1 - Área 2)
+SI,,,IF1006- TÓPICOS AVANÇADOS EM SI 3,Delano Hélio Oliveira ,ter. 17:00-18:50 (A014) /  qui. 18:50-20:30 (A014)
+SI,,,PG515 - DIREITO E ÉTICA EM INFORMÁTICA,Gina Gouveia ,qua. 17:00-18:50 (E113) /  qua. 18:50-20:30 (E113)
