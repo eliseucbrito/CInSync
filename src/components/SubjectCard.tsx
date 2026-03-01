@@ -41,7 +41,8 @@ export function SubjectCard({ subject, room, showSchedule, onRemove, className }
       )}
     >
       <div className="flex justify-between items-start gap-1">
-        <span className="font-semibold leading-tight line-clamp-2" title={subject.name}>
+        <span className="font-semibold leading-tight line-clamp-2" title={`${subject.code} - ${subject.name}`}>
+          <span className="opacity-70 font-mono text-[10px] mr-1 tracking-tighter">{subject.code}</span>
           {subject.name}
         </span>
         {onRemove && (

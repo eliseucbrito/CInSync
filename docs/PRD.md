@@ -59,7 +59,7 @@ O calendário deve possuir linhas estritamente delimitadas pelos seguintes bloco
 
 * **Obrigatórias vs Eletivas:** Devem possuir cores de fundo distintas e fáceis de identificar.  
 * **Conteúdo do Card:** O card renderizado no calendário e na lista de opções deve exibir:  
-  * Nome da disciplina  
+  * Código e Nome da disciplina  
   * Nome do Professor  
   * **Sala/Lab** extraída da string de horário  
   * **Nome do Curso** (Engenharia da Computação, Ciência da Computação, etc.) ou a tag "Eletiva".
