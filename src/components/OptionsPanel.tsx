@@ -13,7 +13,7 @@ interface OptionsPanelProps {
   selectedSubjects: Subject[];
   onHoverSubject: (subject: Subject | null) => void;
   onSelectSubject: (subject: Subject) => void;
-  checkConflicts: (subject: Subject) => Subject[];
+  checkConflicts: (subject: Subject, currentSelectedSubjects?: Subject[]) => Subject[];
 }
 
 export function OptionsPanel({
@@ -74,7 +74,7 @@ export function OptionsPanel({
       if (filterSituation === 'ELETIVAS' && sub.isMandatory) return false;
       if (filterSituation === 'OBRIGATORIAS' && !sub.isMandatory) return false;
       if (filterSituation === 'NO_CONFLICT') {
-        const conflicts = checkConflicts(sub);
+        const conflicts = checkConflicts(sub, selectedSubjects);
         if (conflicts.length > 0) return false;
       }
       
@@ -180,7 +180,7 @@ export function OptionsPanel({
           </div>
         ) : (
           filteredOptions.map((sub) => {
-            const hasConflict = checkConflicts(sub).length > 0;
+            const hasConflict = checkConflicts(sub, selectedSubjects).length > 0;
             return (
               <div
                 key={sub.id}

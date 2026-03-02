@@ -58,11 +58,12 @@ export function useCalendarState() {
   }, []);
 
   const checkConflicts = useCallback(
-    (subject: Subject): Subject[] => {
+    (subject: Subject, currentSelectedSubjects?: Subject[]): Subject[] => {
       const conflictingSubjects: Subject[] = [];
+      const subjectsToCheck = currentSelectedSubjects || selectedSubjects;
       
       for (const block of subject.blocks) {
-        for (const selected of selectedSubjects) {
+        for (const selected of subjectsToCheck) {
           if (selected.id === subject.id) continue;
           
           for (const selectedBlock of selected.blocks) {
